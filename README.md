@@ -1,4 +1,3 @@
-We have created a Website which will give a detailed water quality analysis.<br>The youtube link of our demo video is-https://youtu.be/cx9JUjvufBo <br>
 
 <b><h3>What's the problem ?</h3> </b><hr>
 There is scarcity of clean water everywhere. Most people don't know whether the water present in their area that they are drinking are safe or not. <br><br>
