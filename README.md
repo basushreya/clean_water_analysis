@@ -10,7 +10,7 @@ We need to create a website in which we have connected the MYQL database with th
 
 <br>
 <h2>Demo Video</h2><hr>
-<a href="https://youtu.be/vOgCOoy_Bx0" rel="nofollow"><img src="https://github.com/Call-for-Code/Liquid-Prep/raw/master/images/readme/IBM-interview-video-image.png" alt="Watch the video" style="max-width:100%;"></a>
+<a href="https://www.youtube.com/embed/cx9JUjvufBo" rel="nofollow"><img src="https://github.com/Call-for-Code/Liquid-Prep/raw/master/images/readme/IBM-interview-video-image.png" alt="Watch the video" style="max-width:100%;"></a>
 
 <h3>The Highlights of Our Project</h3>
 <hr>
