@@ -10,7 +10,7 @@ We need to create a website in which we have connected the MYQL database with th
 
 <br>
 <h2>Demo Video</h2><hr>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cx9JUjvufBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cx9JUjvufBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>The Highlights of Our Project</h3>
 <hr>
