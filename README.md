@@ -1,4 +1,7 @@
 We have created a Website which will give a detailed water quality analysis.<br>The youtube link of our demo video is-https://youtu.be/cx9JUjvufBo <br>
+
+<b>What's the problem ? </b>
+There is scarcity of clean water everywhere. Most people don't know whether the water present in their area that they are drinking are safe or not. <br><br>
 The roadmap of our project is <br><br>
 <img src="roadmap.PNG">
 <br><br>
